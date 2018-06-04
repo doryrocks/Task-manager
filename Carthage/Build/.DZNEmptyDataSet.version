@@ -1,0 +1,9 @@
+{
+  "commitish" : "v1.8.1",
+  "iOS" : [
+    {
+      "name" : "DZNEmptyDataSet",
+      "hash" : "1def6e18d3739b035a9646b15152802b60a55a7baf075a2dc46815b2b60ab975"
+    }
+  ]
+}
